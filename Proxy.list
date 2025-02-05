@@ -3,6 +3,13 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
+# 自行设置
+DOMAIN-KEYWORD,parsec
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-KEYWORD,redotpay
+DOMAIN-KEYWORD,notion
+
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
